@@ -4,7 +4,7 @@ A website project made for a beginner css course to improve html & css basics, i
 
 Check it out &#8594; [Omnifood Project](https://omnifoodrestaurant.netlify.app/)
 
-![Website Showcase](https://github.com/iamatnuria/omnifood-project/blob/main/general_showcase.png "Website Showcase")
+![Website Showcase](https://github.com/iamatnuria/omnifood-project/blob/main/website_showcase.png "Website Showcase")
 
  
 
